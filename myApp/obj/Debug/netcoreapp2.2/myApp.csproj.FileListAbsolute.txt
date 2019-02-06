@@ -1,0 +1,11 @@
+/src/rpaas/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/src/rpaas/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/src/rpaas/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/src/rpaas/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/src/rpaas/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/src/rpaas/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/src/rpaas/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/src/rpaas/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/src/rpaas/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/src/rpaas/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/src/rpaas/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
